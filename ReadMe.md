@@ -11,12 +11,13 @@
      </a>
 </p>
 <br><br>
-<p align="center">
+<p align="left">
 * 🌍  I'm based in India
 * ✉️  You can contact me at [legendarchives@protonmail.com](mailto:legendarchives@protonmail.com)
 * 🚀  I'm currently working on [Minetown Network](http://join.minetown.games)
 * 🧠  I'm learning Java & Javascript
 * 🤝  I'm open to collaborating on Minecraft development
+</p>
 <br><br>
 <p align="center">
 	<b>Languages & Skills</b>
