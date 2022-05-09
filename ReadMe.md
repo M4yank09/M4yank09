@@ -10,7 +10,7 @@
     <img src="https://lanyard.cnrad.dev/api/388343727745400834"/>
      </a>
 </p>
-<br><br>
+<br>
 <p align="center">
 	<b>Languages & Skills</b>
 	<br></br>
