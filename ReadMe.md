@@ -10,14 +10,6 @@
     <img src="https://lanyard.cnrad.dev/api/388343727745400834"/>
      </a>
 </p>
-
-<p align="center"> 
-🌍  I'm based in India<br>
-✉️  You can contact me at [legendarchives@protonmail.com](mailto:legendarchives@protonmail.com)<br>
-🚀  I'm currently working on [Minetown Network](http://join.minetown.games)<br>
-🧠  I'm learning Java & Javascript<br>
-🤝  I'm open to collaborating on Minecraft Server Development<br>
-
 <br><br>
 <p align="center">
 	<b>Languages & Skills</b>
