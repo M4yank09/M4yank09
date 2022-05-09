@@ -2,7 +2,7 @@
   <b>Hi 👋, I'm Volt</b><br>
   <a href="https://discord.gg/notsaksh">Discord</a> |
   <a href="https://www.instagram.com/m4yank_09">Instagram</a> |
-  <a href="https://twitter.com/BagadMayank">Twitter</a> |
+  <a href="https://twitter.com/BagadMayank">Twitter</a>
 </p>
 
 <p align="center"><br>
