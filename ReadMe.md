@@ -11,12 +11,12 @@
      </a>
 </p>
 
-### Socials
-
 <p align="center"> 
-<a href="https://discord.com/users/388343727745400834" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="http://www.instagram.com/M4yank_09" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-<a href="https://www.twitter.com/BagadMayank" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a*   🌍  I'm based in India
+*   ✉️  You can contact me at [legendarchives@protonmail.com](mailto:legendarchives@protonmail.com)
+*   🚀  I'm currently working on [Minetown Network](http://join.minetown.games)
+*   🧠  I'm learning Java & Javascript
+	  *   🤝  I'm open to collaborating on Minecraft Server Development></a>
 <br><br>
 <p align="center">
 	<b>Languages & Skills</b>
