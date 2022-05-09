@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/NotSaksh">
+  <a href="https://discord.com/users/388343727745400834">
     <img src="https://lanyard.cnrad.dev/api/388343727745400834"/>
      </a>
 </p>
