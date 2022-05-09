@@ -1,6 +1,6 @@
 <p align='center'>
   <b>Hi 👋, I'm Volt</b><br>
-  <a href="https://discord.gg/notsaksh">Discord</a> |
+  <a href="https://join.minetown.games">Discord</a> |
   <a href="https://www.instagram.com/m4yank_09">Instagram</a> |
   <a href="https://twitter.com/BagadMayank">Twitter</a>
 </p>
@@ -9,6 +9,12 @@
   <a href="https://discord.com/users/388343727745400834">
     <img src="https://lanyard.cnrad.dev/api/388343727745400834"/>
      </a>
+</p>
+<br>
+<p align="center">
+Learning Java & HTML,CSS,JS.
+I am trying to create Multiplayer Experiences for Minecraft:Java & Bedrock Editions @ play.minetown.games.
+Looking forward on blockchain development...
 </p>
 <br>
 <p align="center">
