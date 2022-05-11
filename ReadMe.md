@@ -14,7 +14,7 @@
 <p align="center">
 Learning Java & HTML,CSS,JS.
 I am trying to create Multiplayer Experiences for Minecraft:Java & Bedrock Editions @ play.minetown.games.
-Looking forward on blockchain development...
+Crypto Enthusiast
 </p>
 <br>
 <p align="center">
